@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "example2.mp3",
+        "effects": [
+            [
+                "00:08:217",
+                "Affect1"
+            ],
+            [
+                "00:28:688",
+                "Affect2"
+            ],
+            [
+                "04:14:660",
+                "Affect1"
+            ]
+        ]
+    },
+    {
+        "filename": "sample2.mp3",
+        "effects": [
+            [
+                "08:22:033",
+                "Affect1"
+            ],
+            [
+                "10:35:641",
+                "Affect2"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+altgraph==0.17.4
+macholib==1.16.3
+packaging==23.2
+pafy==0.5.5
+pygame==2.5.2
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2024.0
+PySimpleGUI==4.60.5
+python-vlc==3.0.20123
+watchdog==3.0.0
+youtube-dl==2021.12.17
